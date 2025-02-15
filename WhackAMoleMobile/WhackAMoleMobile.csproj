@@ -65,3 +65,8 @@
 	</ItemGroup>
 
 </Project>
+
+<ItemGroup>
+  <MauiAsset Include="Resources\Raw\**" />
+</ItemGroup>
+
