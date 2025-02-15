@@ -48,7 +48,7 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
              x:Class="WhackAMoleMobile.MainPage">
 
-    <!-- Add a WebView to load your HTML content -->
+    <!-- Add a WebView to load your HTML content in this window -->
     <WebView Source="ms-appx-web:///Resources/Raw/whackamole.html" />
     </ContentPage>
 
