@@ -1,0 +1,56 @@
+Video Game Whack A Mole 🎮
+
+*A simple Whack A Mole game built using VsCode, and now im trying to implement .NET Maui to trasfer it into a Mobile App.
+* It's something i've alway's wanted to try after the initial build of this game, My wish was to try and make it Mobile Compatible 📱
+
+*This project shows basic game development principles, 
+
+*Including UI interaction, event handling, and game logic.
+
+
+Features 📚
+
+*One-player gameplay
+
+*Dynamic game grid A 3x3 button-based grid for gameplay.
+
+*Start and Reset functionality Allows the game to start fresh and reset at any time.
+
+*Win detection Detects when a player wins or loses the game.
+
+*Player loses while missing mole and hitting piranha plant. 
+
+
+📚 Tech used 📚
+VsCode, .Net Maui
+Language C# Java Script, HTML, CSS
+
+
+
+How to run the game 🎮
+
+1. Clone repository : https://github.com/Jonesey86/Whac-a-Mole
+
+2. Open Open the solution file (`Whack-a-Mole.sln`) in Visual Studio Code.
+
+3. Rebuild solution.
+
+4. Run the game.
+
+
+
+🎮 How to play Whack A Mole video game 🎮
+
+1. Start the Game
+- Click Start button.
+
+2.How to play the game
+- Every 2 seconds a Mole and a Piranha plant will appear on screen, Player has to hit the Mole as many times as possible and avoid Piranha plant .
+- User will have to use mouse to navigate around the playing area.
+
+3. Win or Reset
+The game detects wins or loss and displays the result.
+
+*Click Refresh to restart the game*.
+
+*If you have any questions, please feel free to reach out to me via Email: irj082024@gmail.com 📩
